@@ -1,8 +1,24 @@
 [
     {
+        "title": "What's on my farm?",
+        "author": "priddy books",
+        "date": "2025-03-19"
+    },
+    {
+        "title": "Trucks",
+        "author": "Eric",
+        "date": "2025-03-19"
+    },
+    {
         "title": "abc",
         "author": "123",
         "date_added": "2025-03-20",
         "genre": "Science"
+    },
+    {
+        "title": "Busy Trucks on the GO",
+        "author": "Eric Ode",
+        "date_added": "2025-03-20",
+        "genre": "Fantasy"
     }
 ]
