@@ -8,5 +8,23 @@
         "title": "Trucks",
         "author": "Eric",
         "date": "2025-03-19"
+    },
+    {
+        "title": "Busy",
+        "author": "Test",
+        "date_added": "2025-03-19",
+        "genre": "Fiction"
+    },
+    {
+        "title": "cars",
+        "author": "demo",
+        "date_added": "2025-03-19",
+        "genre": "Non-Fiction"
+    },
+    {
+        "title": "tset",
+        "author": "abc",
+        "date_added": "2025-03-20",
+        "genre": "Fiction"
     }
 ]
